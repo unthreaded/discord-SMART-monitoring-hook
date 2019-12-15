@@ -3,7 +3,7 @@ name: Discord SMART Monitoring Hook Pipeline
 on: [push, pull_request]
 
 jobs:
-  build:
+  Pipeline:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
