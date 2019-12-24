@@ -1,4 +1,5 @@
 # discord-SMART-monitoring-hook
+[![](https://github.com/unthreaded/discord-SMART-monitoring-hook/workflows/Discord%20SMART%20Monitoring%20Hook%20Pipeline/badge.svg)]((https://github.com/unthreaded/discord-SMART-monitoring-hook/actions?workflow=Discord+SMART+Monitoring+Hook+Pipeline))
 
 Gather SMART :bulb: details from all disks and post a message in ***Discord***!
 

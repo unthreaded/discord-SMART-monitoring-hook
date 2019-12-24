@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CFD0BCC6-8ECF-44E0-A71E-922545E37757}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discord-SMART-monitoring-hook", "src\main\discord-SMART-monitoring-hook.csproj", "{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "discord-SMART-monitoring-hook-tests", "src\test\discord-SMART-monitoring-hook-tests.csproj", "{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C6A545E-EEFD-4649-BA8B-604B40274878}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Debug|x64.Build.0 = Debug|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Debug|x86.Build.0 = Debug|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Release|x64.ActiveCfg = Release|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Release|x64.Build.0 = Release|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Release|x86.ActiveCfg = Release|Any CPU
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA}.Release|x86.Build.0 = Release|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Release|x64.Build.0 = Release|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E5C5906E-A738-48FA-A855-2ADDF6FE72CA} = {CFD0BCC6-8ECF-44E0-A71E-922545E37757}
+		{900C95B1-38C7-4852-8C4B-782DD0E4C6DA} = {CFD0BCC6-8ECF-44E0-A71E-922545E37757}
+	EndGlobalSection
+EndGlobal
